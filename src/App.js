@@ -1,11 +1,12 @@
 import "./App.css";
+import JobPage from "./JobPage";
 import JobList from "./JobPage";
 
 function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
-				<JobList />
+				<JobPage />
 			</header>
 		</div>
 	);
