@@ -1,6 +1,5 @@
 import "./App.css";
 import JobPage from "./JobPage";
-import JobList from "./JobPage";
 
 function App() {
 	return (
